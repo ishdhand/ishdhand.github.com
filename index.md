@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ish Dhand
-tagline: Supporting tagline
+tagline: Quantum Physicist
 ---
 {% include JB/setup %}
   Quantum physics Ph.D. student

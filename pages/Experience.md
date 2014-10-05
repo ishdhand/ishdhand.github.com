@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Experience"
-description: ""
+description: "Research experience and education"
 ---
 {% include JB/setup %}
 

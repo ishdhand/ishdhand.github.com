@@ -387,11 +387,7 @@ footer {
 }
 
 img.avatar {
-	border-radius: 40px;
-	-webkit-border-radius: 40px;
-	-moz-border-radius: 40px;
-	width:72px;
-	height:72px;
+	width:100px;
 }
 
 img.profile {

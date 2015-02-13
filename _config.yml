@@ -11,7 +11,7 @@ pygments: false
 timezone: 'Canada/Calgary'
 
 {% if page.desc %}
- 2 <meta name="description" content="{{ page.desc }}" />
- 3 {% else %}
- 4 <meta name="description" content="Ish Dhand is a PhD candidate at the University of Calgary. Visit this webpage for more information on his research in quantum optics and quantum computing." />
- 5 {% endif %}
+<meta name="description" content="{{ page.desc }}" />
+{% else %}
+<meta name="description" content="Ish Dhand is a PhD candidate at the University of Calgary. Visit this webpage for more information on his research in quantum optics and quantum computing." />
+{% endif %}

@@ -1,7 +1,7 @@
 ---
 permalink: /contact/
 layout:    default
-title:     Contact Information
+title:     Contact Information - Ish Dhand
 ---
 
 # Contact Information 

@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 layout:    default
-title:     My research
+title:     My research - Ish Dhand
 ---
 
 # Research Interests

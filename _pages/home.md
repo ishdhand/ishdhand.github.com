@@ -2,17 +2,21 @@
 permalink: /home/
 permalink: /
 layout:    default
-title:     Home
+title:     Ish Dhand's Home Page
 ---
 
 # Home
 ----------------
 
-My research is in the areas of quantum optics and quantum computing. I'm working towards beating classical computers by means of a <span style="font-variant: small-caps"> BosonSampling </span> quantum computer. My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
+My research is in the areas of quantum optics and quantum computing. I'm working towards beating classical computers by means of a <span style="font-variant: small-caps"> BosonSampling </span> quantum computer. 
 
-### News
+My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
 
-* **2015-01-30** - I'm co-organizing the Workshop on Multi-Photon Interferometry at Shanghai, China during 7-11 May 2015. The webpage for workshop is up: [MPI-2015](http://mpi2015.org).
+----------------
+
+## News
+
+* **2015-01-30** - I am co-organizing the Workshop on Multi-Photon Interferometry at Shanghai, China during 7-11 May 2015. The webpage for workshop is now up: [MPI-2015](http://mpi2015.org).
 
 * **2014-10-31** - My work on "Group-theoretic Algorithms for Multiphoton Interferometery" with Hubert de Guise and Barry Sanders has been accepted for poster presentation at [QIP-2015](http://quantum-lab.org/qip2015/).
 

@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 layout:    default
-title:     Publications and Presentations
+title:     Publications and Presentations - Ish Dhand
 ---
 
 # Publications
@@ -15,6 +15,8 @@ title:     Publications and Presentations
 # Presentations
 ------------------
 
-* 26 Jun 2013, I. Dhand and B. C. Sanders, Stability of the Trotter-Suzuki decomposition. (contributed), Canadian Quantum Information Students' conference, Calgary
+* 12 Jan 2015, I. Dhand, H. d. Guise and B. C. Sanders, Group-theoretic Algo- rithms for Multiphoton Interferometry (contributed poster), Quantum Information Processing (QIP), Sydney, NSW, Australia. 
 
-* 30 May 2013, I. Dhand and B. C. Sanders, Stability of the Trotter-Suzuki decomposition. (contributed), CAP Congress 2013, Montreal
+* 26 Jun 2013, I. Dhand and B. C. Sanders, Stability of the Trotter-Suzuki decomposition. (contributed talk), Canadian Quantum Information Students' conference, Calgary
+
+* 30 May 2013, I. Dhand and B. C. Sanders, Stability of the Trotter-Suzuki decomposition. (contributed talk), CAP Congress 2013, Montreal

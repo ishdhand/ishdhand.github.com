@@ -3,7 +3,7 @@ permalink: /home/
 permalink: /
 layout:    default
 title:     Ish Dhand's Home Page
-description: "I, Ish Dhand, am a PhD candidate at the University of Calgary. My research is in the areas of quantum optics and quantum computing. I’m working towards beating classical computers by means of a BosonSampling quantum computer."
+
 
 ---
 

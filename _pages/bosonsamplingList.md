@@ -55,6 +55,7 @@ title:     List of papers related to BosonSampling
 <p>[46]P.P. Rohde, K.R. Motes, P.A. Knott, J. Fitzsimons, W.J. Munro, J.P. Dowling, Evidence for the conjecture that sampling generalized cat states with linear optics is hard, Phys. Rev. A. 91 (2015). doi:<a href="http://dx.doi.org/10.1103/physreva.91.012342">10.1103/physreva.91.012342</a>.</p>
 <p>[47]V.S. Shchesnovich, Partial indistinguishability theory for multiphoton experiments in multiport devices, Phys. Rev. A. 91 (2015) 013844. doi:<a href="http://dx.doi.org/10.1103/PhysRevA.91.013844">10.1103/PhysRevA.91.013844</a>.</p>
 <p>[48]P.P. Rohde, Simple scheme for universal linear-optics quantum computing with constant experimental complexity using fiber loops, Phys. Rev. A. 91 (2015). doi:<a href="http://dx.doi.org/10.1103/physreva.91.012306">10.1103/physreva.91.012306</a>.</p>
+
 ------------------
 
 Please email me if I've missed an entry. Thanks!

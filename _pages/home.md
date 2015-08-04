@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 ## CV
 ----------------
 
@@ -15,7 +16,9 @@ My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
 
 ## News
 
-* **2015-07-22** - My paper on the [Algorithms for SU(n) boson realizations and D-functions](http://arxiv.org/abs/1507.06274) with Barry C. Sanders and Hubert de Guise is now on the ArXiv.
+* **2015-07-22** - My paper on the [Accurate and precise characterization of linear optical interferometers](http://arxiv.org/abs/1508.00283) with Abdullah Khalid, He Lu and Barry C. Sanders is now up on ArXiv.
+
+* **2015-07-22** - My paper on the [Algorithms for SU(n) boson realizations and D-functions](http://arxiv.org/abs/1507.06274) with Barry C. Sanders and Hubert de Guise is now up on ArXiv.
 
 * **2015-04-07** - My work on [Accurate and Precise Characterization of Linear Optical Devices](http://spie.org/OP416) with Abdullah Khalid, He Lu and Barry C. Sanders has been accepted as a invited paper at [SPIE Optical Engineering + Applications](http://spie.org/x30491.xml?WT.mc_id=ROP15GB). I will be presenting at San Diego on 2015-08-10. 
 

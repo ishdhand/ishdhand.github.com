@@ -7,6 +7,7 @@ published: true
 
 
 
+
 ## CV
 ----------------
 
@@ -16,7 +17,7 @@ My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
 
 ## News
 
-* **2015-07-22** - My paper on the [Accurate and precise characterization of linear optical interferometers](http://arxiv.org/abs/1508.00283) with Abdullah Khalid, He Lu and Barry C. Sanders is now up on ArXiv.
+* **2015-08-04** - My paper on the [Accurate and precise characterization of linear optical interferometers](http://arxiv.org/abs/1508.00283) with Abdullah Khalid, He Lu and Barry C. Sanders is now up on ArXiv.
 
 * **2015-07-22** - My paper on the [Algorithms for SU(n) boson realizations and D-functions](http://arxiv.org/abs/1507.06274) with Barry C. Sanders and Hubert de Guise is now up on ArXiv.
 

@@ -6,13 +6,18 @@ published: true
 ---
 
 
+
 # Publications
 ------------------
-* I. Dhand, B. C. Sanders and Hubert de Guise, Algorithms for SU(n) boson realizations and D-functions,
-[ArXiV: 1507.06274](http://arxiv.org/abs/1507.06274).  
+* Ish Dhand, Abdullah Khalid, He Lu, Barry C. Sanders, AAccurate and precise characterization of linear optical interferometers,
+[arXiv:1508.00283](http://arxiv.org/abs/1508.00283).  
+  <Small>Abstract: We combine single- and two-photon interference procedures for characterizing any multi-port linear optical interferometer accurately and precisely. Accuracy is achieved by estimating and correcting systematic errors that arise due to spatiotemporal and polarization mode mismatch. Enhanced precision is attained by curve fitting to measured quantities based on a Poissonian shot noise assumption, and we employ bootstrapping statistics to quantify the resultant degree of precision. A scattershot approach is devised to effect a reduction in the experimental time required to characterize the interferometer.</Small>.
+
+* Ish Dhand, Barry C. Sanders and Hubert de Guise, Algorithms for SU(n) boson realizations and D-functions,
+[arXiv: 1507.06274](http://arxiv.org/abs/1507.06274).  
   <Small>Abstract: Boson realizations map operators and states of groups to transformations and states of bosonic systems. We devise a graph-theoretic algorithm to construct the boson realizations of the canonical SU(n) basis states, which reduce the canonical subgroup chain, for arbitrary n. The boson realizations are employed to construct D-functions, which are the matrix elements of arbitrary irreducible representations, of SU(n) in the canonical basis. We demonstrate that our D-function algorithm offers significant advantage over the two competing procedures, namely factorization and exponentiation</Small>.
   
-* I. Dhand and B. C. Sanders, Stability of the Trotter-Suzuki decomposition,
+* Ish Dhand and Barry C. Sanders, Stability of the Trotter-Suzuki decomposition,
 [Journal of Physics A: Mathematical and Theoretical](http://iopscience.iop.org/1751-8121/47/26/265206/) 47 (26), 265206.  [ArXiV: 1403.3469](http://arxiv.org/abs/1403.3469).  
   <Small>Abstract: The Trotter-Suzuki decomposition is an important tool for the simulation and control of physical systems. We provide evidence for the stability of the Trotter-Suzuki decomposition. We model the error in the decomposition and determine sufficiency conditions that guarantee the stability of this decomposition under this model. We relate these sufficiency conditions to precision limitations of computing and control in both classical and quantum cases. Furthermore we show that bounded-error Trotter-Suzuki decomposition can be achieved by a suitable choice of machine precision</Small>.
 
@@ -21,18 +26,20 @@ published: true
 # Presentations
 ------------------
 
-* 10-08-2015, I. Dhand, A. Khalid, H. Lu and B. C. Sanders, Accurate and precise characterization of linear optical devices (invited talk), SPIE Optical Engineering + Applications, San Diego, United States. 
+* 2015-08-10, Ish Dhand, Abdullah Khalid, He Lu and Barry C. Sanders, Accurate and precise characterization of linear optical devices (invited talk), SPIE Optical Engineering + Applications, San Diego, United States. 
 
-* 18-06-2015, I. Dhand, B. C. Sanders and H. de Guise, Algorithms for Boson realizations of SU(n) (contributed poster), 2015 Canadian Association of Physicists Congress, Edmonton, Canada.
+* 2015-06-18, Ish Dhand, Barry C. Sanders and Hubert de Guise, Algorithms for Boson realizations of SU(n) (contributed poster), 2015 Canadian Association of Physicists Congress, Edmonton, Canada.
 
-* 17-06-2015, I. Dhand, A. Khalid, H. Lu and B. C. Sanders, Accurate and precise characterization of linear optical interferometers (contributed talk), 2015 Canadian Association of Physicists Congress, Edmonton, Canada.
+* 2015-06-17, Ish Dhand, Abdullah Khalid, He Lu and Barry C. Sanders, Accurate and precise characterization of linear optical interferometers (contributed talk), 2015 Canadian Association of Physicists Congress, Edmonton, Canada.
 
-* 12-06-2015, I. Dhand, B. C. Sanders and H. de Guise, Algorithm for boson realization of SU(n) (contributed talk), Theory Canada 10, Calgary, Canada. 
+* 2015-06-12, Ish Dhand, Barry C. Sanders and Hubert de Guise, Algorithm for boson realization of SU(n) (contributed talk), Theory Canada 10, Calgary, Canada. 
 
-* 08-05-2015, I. Dhand, H. de Guise, A. Khalid, H. Lu and B. C. Sanders, Characterization and Simulation of Multi-Photon Interferometers (invited talk), Workshop on Multi-Photon Interferometry, Shanghai.
+* 2015-05-08, Ish Dhand, Hubert de Guise, Abdullah Khalid, He Lu and Barry C. Sanders, Characterization and Simulation of Multi-Photon Interferometers (invited talk), Workshop on Multi-Photon Interferometry, Shanghai.
 
-* 12-01-2015, I. Dhand, H. d. Guise and B. C. Sanders, Group-theoretic Algo- rithms for Multiphoton Interferometry (contributed poster), Quantum Information Processing (QIP), Sydney, NSW, Australia. 
+* 2015-01-12, Ish Dhand, Hubert de Guise and Barry C. Sanders, Group-theoretic Algorithms for Multiphoton Interferometry (contributed poster), Quantum Information Processing (QIP), Sydney, NSW, Australia. 
 
-* 26-06-2013, I. Dhand and B. C. Sanders, Stability of the Trotter-Suzuki decomposition. (contributed talk), Canadian Quantum Information Students' conference, Calgary, Canada.
+* 2014-07-14, Ish Dhand and Joydip Ghosh, Quantum Simulation and Implementations (invited poster), Alberta Quantum-Nano Workshop, Red Deer, Alberta,Canada.
 
-* 30-05-2013, I. Dhand and B. C. Sanders, Stability of the Trotter-Suzuki decomposition. (contributed talk), 2013 Canadian Association of Physicists Congress, Montreal, Canada.
+* 2013-06-26, Ish Dhand and Barry C. Sanders, Stability of the Trotter-Suzuki decomposition. (contributed talk), Canadian Quantum Information Students' conference, Calgary, Canada.
+
+* 2013-05-30, Ish Dhand and Barry C. Sanders, Stability of the Trotter-Suzuki decomposition. (contributed talk), 2013 Canadian Association of Physicists Congress, Montreal, Canada.

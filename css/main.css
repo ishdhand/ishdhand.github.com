@@ -209,13 +209,13 @@ nav ul {
 nav li {
 	float:left;
 	height:24px;
-	width:98px;
+	width:97px;
 	border-right:1px solid #e5e5e5;
 }
 
 nav li:last-child {
 	border-right:none;
-	width:99px;
+	width:98px;
 }
 
 nav li a {

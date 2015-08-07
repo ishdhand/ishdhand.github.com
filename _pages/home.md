@@ -6,16 +6,19 @@ published: true
 ---
 
 
-
-
 ## CV
 ----------------
 
 My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
 
+
+## Research
 ----------------
 
+My research focusses on the characterization, design and simulation of linear optics. I have devised an accurate and precise procedure for the characterization of linear optical interferometers [[arXiv:1508.00283]](http://arxiv.org/abs/1508.00283). I have given evidence for the stability of the Trotter-Suzuki decomposition, which promises to reduce the cost of designing interferometers [[J. Phys. A: Math. Theor. 47, 265206]](http://dx.doi.org/10.1088/1751-8113/47/26/265206). Finally, I have devised algorithms that employ permutation symmetries of photons to speed up the simulation of linear optical interferometers [[arXiv:1507.06274]](http://arxiv.org/abs/1507.06274).
+
 ## News
+----------------
 
 * **2015-08-04** - My paper on the [Accurate and precise characterization of linear optical interferometers](http://arxiv.org/abs/1508.00283) with Abdullah Khalid, He Lu and Barry C. Sanders is now up on ArXiv.
 
@@ -31,6 +34,6 @@ My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
 
 * **2014-10-31** - My work on [Group-theoretic Algorithms for Multiphoton Interferometery](http://www.quantum-lab.org/qip2015/posters/87-Dhand.pdf) with Hubert de Guise and Barry C. Sanders has been accepted for poster presentation at [QIP - 2015](http://quantum-lab.org/qip2015/).
 
-* **2014-05-21** - My paper on the [Stability of the Trotter-Suzuki Decomposition](http://iopscience.iop.org/1751-8121/47/26/265206/) with Barry C. Sanders has been published in the [Journal of Physics A: Mathematical and Theoretical](http://iopscience.iop.org/1751-8121/). [(ArXiv)](http://arxiv.org/abs/1403.3469)
+* **2014-05-21** - My paper on the [Stability of the Trotter-Suzuki Decomposition](http://iopscience.iop.org/1751-8121/47/26/265206/) with Barry C. Sanders has been published in [Journal of Physics A: Mathematical and Theoretical](http://iopscience.iop.org/1751-8121/). [(ArXiv)](http://arxiv.org/abs/1403.3469)
 
 * **2014-03-14** - I have uploaded my paper on the [Stability of the Trotter-Suzuki Decomposition](http://arxiv.org/abs/1403.3469) with Barry C. Sanders to the ArXiv.

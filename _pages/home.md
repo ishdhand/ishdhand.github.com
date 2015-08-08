@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 ## CV
 ----------------
 
@@ -15,7 +16,7 @@ My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
 ## Research
 ----------------
 
-My research focusses on the characterization, design and simulation of linear optics. I have devised an accurate and precise procedure for the characterization of linear optical interferometers [[arXiv:1508.00283]](http://arxiv.org/abs/1508.00283). I have given evidence for the stability of the Trotter-Suzuki decomposition, which promises to reduce the cost of designing interferometers [[J. Phys. A: Math. Theor. 47, 265206]](http://dx.doi.org/10.1088/1751-8113/47/26/265206). Finally, I have devised algorithms that employ permutation symmetries of photons to speed up the simulation of linear optical interferometers [[arXiv:1507.06274]](http://arxiv.org/abs/1507.06274).
+My research focusses on the characterization, design and simulation of linear optics. I have given evidence for the stability of the Trotter-Suzuki decomposition, which promises to reduce the cost of designing interferometers [[J. Phys. A: Math. Theor. 47, 265206]](http://dx.doi.org/10.1088/1751-8113/47/26/265206). I have constructed an accurate and precise procedure for the characterization of linear optical interferometers [[arXiv:1508.00283]](http://arxiv.org/abs/1508.00283). Finally, I have devised algorithms that employ permutation symmetries of photons to speed up the simulation of linear optical interferometers [[arXiv:1507.06274]](http://arxiv.org/abs/1507.06274).
 
 ## News
 ----------------

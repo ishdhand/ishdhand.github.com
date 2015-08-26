@@ -7,9 +7,14 @@ published: true
 
 
 
+
 # Publications
 ------------------
-* Ish Dhand, Abdullah Khalid, He Lu, Barry C. Sanders, AAccurate and precise characterization of linear optical interferometers,
+* Ish Dhand and Sandeep K. Goyal, Realization of arbitrary discrete unitary transformations using spatial and internal modes of light,
+[arXiv:1508.06259](http://arxiv.org/abs/1508.06259).  
+  <Small>Abstract: Any lossless transformation on n_s spatial and n_p internal modes of light can be described by an n_sn_p×n_sn_p unitary matrix, but no procedure to effect arbitrary n_sn_p×n_sn_p unitary matrix on the combined spatial and internal modes is known. We devise an algorithm to realize an arbitrary discrete unitary transformation on the combined spatial and internal degrees of freedom of light. Our realization uses beamsplitters and operations on internal modes to effect arbitrary linear transformations. The number of beamsplitters required to realize a unitary transformation is reduced as compared to existing realization by a factor equal to the dimension of the employed internal degree of freedom. Our algorithm thus enables the optical implementation of higher dimensional unitary transformations.</Small>.
+  
+* Ish Dhand, Abdullah Khalid, He Lu and Barry C. Sanders, Accurate and precise characterization of linear optical interferometers,
 [arXiv:1508.00283](http://arxiv.org/abs/1508.00283).  
   <Small>Abstract: We combine single- and two-photon interference procedures for characterizing any multi-port linear optical interferometer accurately and precisely. Accuracy is achieved by estimating and correcting systematic errors that arise due to spatiotemporal and polarization mode mismatch. Enhanced precision is attained by curve fitting to measured quantities based on a Poissonian shot noise assumption, and we employ bootstrapping statistics to quantify the resultant degree of precision. A scattershot approach is devised to effect a reduction in the experimental time required to characterize the interferometer.</Small>.
 

@@ -7,6 +7,7 @@ published: true
 
 
 
+
 ## CV
 ----------------
 
@@ -16,10 +17,13 @@ My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
 ## Research
 ----------------
 
-My research focusses on the characterization, design and simulation of linear optics. I have given evidence for the stability of the Trotter-Suzuki decomposition, which promises to reduce the cost of designing interferometers [[J. Phys. A: Math. Theor. 47, 265206]](http://dx.doi.org/10.1088/1751-8113/47/26/265206). I have constructed an accurate and precise procedure for the characterization of linear optical interferometers [[arXiv:1508.00283]](http://arxiv.org/abs/1508.00283). Finally, I have devised algorithms that employ permutation symmetries of photons to speed up the simulation of linear optical interferometers [[arXiv:1507.06274]](http://arxiv.org/abs/1507.06274).
+My research focusses on the characterization, design and simulation of linear optics. I have given evidence for the stability of the Trotter-Suzuki decomposition, which promises to reduce the cost of designing interferometers [[J. Phys. A: Math. Theor. 47, 265206]](http://dx.doi.org/10.1088/1751-8113/47/26/265206) and have devised a decomposition that enables the realization of arbitrary unitary transformations on the spatial and internal modes of light [[arXiv:1508.06259]](http://arxiv.org/abs/1508.06259). I have constructed an accurate and precise procedure for the characterization of linear optical interferometers [[arXiv:1508.00283]](http://arxiv.org/abs/1508.00283). Finally, I have devised algorithms that employ permutation symmetries of photons to speed up the simulation of linear optical interferometers [[arXiv:1507.06274]](http://arxiv.org/abs/1507.06274).
 
 ## News
 ----------------
+
+* **2015-08-25** - My paper on the [Realization of arbitrary discrete unitary transformations using spatial and internal modes of light
+](http://arxiv.org/abs/1508.06259) with Sandeep K. Goyal is up on ArXiv.
 
 * **2015-08-04** - My paper on the [Accurate and precise characterization of linear optical interferometers](http://arxiv.org/abs/1508.00283) with Abdullah Khalid, He Lu and Barry C. Sanders is now up on ArXiv.
 

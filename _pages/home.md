@@ -9,6 +9,7 @@ published: true
 
 
 
+
 ## CV
 ----------------
 
@@ -22,6 +23,9 @@ My research focusses on the design, characterization and simulation of linear op
 
 ## News
 ----------------
+
+* **2015-09-29** - My paper on the [Realization of arbitrary discrete unitary transformations using spatial and internal modes of light
+](http://arxiv.org/abs/1508.06259) with Sandeep K. Goyal is accepted for publication in Physical Review A.
 
 * **2015-08-25** - My paper on the [Realization of arbitrary discrete unitary transformations using spatial and internal modes of light
 ](http://arxiv.org/abs/1508.06259) with Sandeep K. Goyal is up on ArXiv.

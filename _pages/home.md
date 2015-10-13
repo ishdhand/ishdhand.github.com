@@ -11,6 +11,7 @@ published: true
 
 
 
+
 ## CV
 ----------------
 
@@ -24,6 +25,8 @@ My research focusses on the design, characterization and simulation of linear op
 
 ## News
 ----------------
+
+* **2015-10-12** - My work on *D-functions and immanants of unitary matrices and submatrices* with Hubert de Guise, Dylan Spivak and Justin Kulp has been submitted to the Journal of Physics A: Mathematical and Theoretical. Please contact me if you would like to read a preprint of our work.
 
 * **2015-09-29** - My paper on the [Realization of arbitrary discrete unitary transformations using spatial and internal modes of light
 ](http://arxiv.org/abs/1508.06259) with Sandeep K. Goyal is accepted for publication in Physical Review A. The complete matlab code for our decomposition is available [here](https://github.com/ishdhand/Internal-Spatial-Decomposition).

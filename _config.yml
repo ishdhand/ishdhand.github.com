@@ -1,7 +1,7 @@
 name:   'Ish Dhand'
 url:    'ishdhand.me'
 author: 'Ish Dhand'
-markdown: redcarpet
+markdown: kramdown
 
 include:  ['_pages']
 

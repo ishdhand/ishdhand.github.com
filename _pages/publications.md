@@ -11,27 +11,33 @@ published: true
 
 
 
+
 # Publications
 ------------------
-2. Ish Dhand and Sandeep K. Goyal, _Realization of arbitrary discrete unitary transformations using spatial and internal modes of light_,  
+2. _Realization of arbitrary discrete unitary transformations using spatial and internal modes of light_,  
+Ish Dhand and Sandeep K. Goyal,  
 [[Phys. Rev. A 92, 043813]](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.043813)  [[arXiv:1508.06259]](http://arxiv.org/abs/1508.06259).  
 *Abstract:* Any lossless transformation on n<sub>s</sub> spatial and n<sub>p</sub> internal modes of light can be described by an n<sub>s</sub> n<sub>p</sub> × n<sub>s</sub> n<sub>p</sub> unitary matrix, but there is no known procedure to effect an arbitrary n<sub>s</sub> n<sub>p</sub> × n<sub>s</sub> n<sub>p</sub> unitary matrix on light in n<sub>s</sub> spatial and n<sub>p</sub> internal modes. We devise an algorithm to realize an arbitrary discrete unitary transformation on the combined spatial and internal degrees of freedom of light. Our realization uses beam splitters and operations on internal modes to effect arbitrary linear transformations. The number of beam splitters required to realize a unitary transformation is reduced as compared to existing realization by a factor n<sub>s</sub><sup>2</sup>/2 at the cost of increasing the number of internal optical elements by a factor of 2. Our algorithm thus enables the optical implementation of higher dimensional unitary transformations.
 
-1. Ish Dhand and Barry C. Sanders, _Stability of the Trotter-Suzuki decomposition_,  
+1. _Stability of the Trotter-Suzuki decomposition_,  
+Ish Dhand and Barry C. Sanders,  
 [[J. Phys. A: Math. Theor. 47 (26), 265206]](http://iopscience.iop.org/article/10.1088/1751-8113/47/26/265206)  [[arXiv: 1403.3469]](http://arxiv.org/abs/1403.3469).  
 *Abstract:* The Trotter-Suzuki decomposition is an important tool for the simulation and control of physical systems. We provide evidence for the stability of the Trotter-Suzuki decomposition. We model the error in the decomposition and determine sufficiency conditions that guarantee the stability of this decomposition under this model. We relate these sufficiency conditions to precision limitations of computing and control in both classical and quantum cases. Furthermore we show that bounded-error Trotter-Suzuki decomposition can be achieved by a suitable choice of machine precision.
 {: reversed="reversed"}
 
 # Preprints
 ------------------
-3. Hubert de Guise , Dylan Spivak , Justin Kulp and Ish Dhand, _D-functions and immanants of unitary matrices and submatrices_  
+3. _D-functions and immanants of unitary matrices and submatrices_  
+Hubert de Guise , Dylan Spivak , Justin Kulp and Ish Dhand,  
 *Abstract:* Motivated by recent results in multiphoton interferometry, we expand a result of Kostant on immanants of an arbitrary m×m unitary matrix T ∈ su(m) to the submatrices of T. Specifically, we show that immanants of principal submatrices of a unitary matrix T are a sum of the diagonal D-functions of group element Ω, with over an index determined by the choice of submatrix, and the irrep λ determined by the immanant under consideration. We also provide evidence that this result extends to some submatrices that are not principal diagonal, and we discuss how this result can be extended to cases where T carries an su(m) representation that is different from the defining representation.  
 
-2. Ish Dhand, Abdullah Khalid, He Lu and Barry C. Sanders, _Accurate and precise characterization of linear optical interferometers_,  
+2. _Accurate and precise characterization of linear optical interferometers_,  
+Ish Dhand, Abdullah Khalid, He Lu and Barry C. Sanders,  
 [[arXiv:1508.00283]](http://arxiv.org/abs/1508.00283).  
 **Abstract:** We combine single- and two-photon interference procedures for characterizing any multi-port linear optical interferometer accurately and precisely. Accuracy is achieved by estimating and correcting systematic errors that arise due to spatiotemporal and polarization mode mismatch. Enhanced precision is attained by curve fitting to measured quantities based on a Poissonian shot noise assumption, and we employ bootstrapping statistics to quantify the resultant degree of precision. A scattershot approach is devised to effect a reduction in the experimental time required to characterize the interferometer.  
 
-1. Ish Dhand, Barry C. Sanders and Hubert de Guise, _Algorithms for SU(n)boson realizations and D-functions_,  
+1. _Algorithms for SU(n) boson realizations and D-functions_,  
+Ish Dhand, Barry C. Sanders and Hubert de Guise,  
 [[arXiv: 1507.06274]](http://arxiv.org/abs/1507.06274).  
 *Abstract:* Boson realizations map operators and states of groups to transformations and states of bosonic systems. We devise a graph-theoretic algorithm to construct the boson realizations of the canonical SU(n) basis states, which reduce the canonical subgroup chain, for arbitrary n. The boson realizations are employed to construct D-functions, which are the matrix elements of arbitrary irreducible representations, of SU(n) in the canonical basis. We demonstrate that our D-function algorithm offers significant advantage over the two competing procedures, namely factorization and exponentiation.
 {: reversed="reversed"}

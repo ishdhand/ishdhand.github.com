@@ -1,6 +1,7 @@
 name:   'Ish Dhand'
 url:    'ishdhand.me'
 author: 'Ish Dhand'
+markdown: kramdown
 
 include:  ['_pages']
 

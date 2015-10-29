@@ -1,8 +1,10 @@
 ---
 permalink: /contact/
-layout:    default
-title:     Contact Information - Ish Dhand
+layout: default
+title: "Contact Information - Ish Dhand"
+published: true
 ---
+
 
 # Contact Information 
 ------------
@@ -15,4 +17,4 @@ University of Calgary
 Calgary, Alberta  
 Canada T2N 1N4
 
-Email: [ishdhand (at) gmail.com](mailto:ishdhand@gmail.com)
+Email: [ishdhand (at) gmail.com](http://scr.im/dhand)

@@ -13,6 +13,7 @@ published: true
 
 
 
+
 # Publications
 ------------------
 1. _Algorithms for SU(n) boson realizations and D-functions_,  
@@ -36,6 +37,7 @@ Ish Dhand and Barry C. Sanders,
 ------------------
 2. _D-functions and immanants of unitary matrices and submatrices_  
 Hubert de Guise , Dylan Spivak , Justin Kulp and Ish Dhand,  
+[[arXiv:1511.01851]](http://arxiv.org/abs/1511.01851).  
 *Abstract:* Motivated by recent results in multiphoton interferometry, we expand a result of Kostant on immanants of an arbitrary m×m unitary matrix T ∈ su(m) to the submatrices of T. Specifically, we show that immanants of principal submatrices of a unitary matrix T are a sum of the diagonal D-functions of group element Ω, with over an index determined by the choice of submatrix, and the irrep λ determined by the immanant under consideration. We also provide evidence that this result extends to some submatrices that are not principal diagonal, and we discuss how this result can be extended to cases where T carries an su(m) representation that is different from the defining representation.  
 
 1. _Accurate and precise characterization of linear optical interferometers_,  

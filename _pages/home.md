@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 ## CV
 ----------------
 
@@ -14,6 +15,8 @@ My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
 
 ## News
 ----------------
+
+* **2015-12-01** - I have successfully defended my PhD thesis on [Multi-photon multi-channel interferometry for quantum information processing](http://www.iqst.ca/media/pdf/publications/IshDhand.pdf). 
 
 * **2015-11-13** - My paper on [Algorithms for SU(n) boson realizations and D-functions](http://scitation.aip.org/content/aip/journal/jmp/56/11/10.1063/1.4935433) with Barry C. Sanders and Hubert de Guise is he featured article in the [November issue](http://scitation.aip.org/content/aip/journal/jmp/56/11) of Journal of Mathematical Physics. The published version of the paper is available on [arXiv](http://arxiv.org/abs/1507.06274). 
 

@@ -15,8 +15,10 @@ Follow the links below to view my publications
 <img src="{{site.baseurl}}/_pages/3c0858ae-b546-11e4-852c-6c747bbdc3f3.png" alt="Ish Dhand at ResearchGate" style="width:20px;height:20px;"> 
 ResearchGate </a><br>
 <a href="http://www.citeulike.org/user/ishdhand/author/Dhand:I" title="Ish Dhand at CiteULike"><img src="{{site.baseurl}}/_pages/citeulike-icon.png" alt="Ish Dhand at CiteULike" style="width:20px;height:20px;"> CiteULike </a><br>
-<a href="http://arxiv.org/a/dhand_i_1.html" title="Ish Dhand at ArXiv"><img src="{{site.baseurl}}/_pages/favicon.ico" alt="Ish Dhand at arXiv" style="width:20px;height:20px;"> arXiv </a><br>
+<a href="http://arxiv.org/a/dhand_i_1.html" title="Ish Dhand at ArXiv"><img src="{{site.baseurl}}/_pages/favicon.png" alt="Ish Dhand at arXiv" style="width:20px;height:20px;"> arXiv </a><br>
 </p>
+
+
 
 ----
 

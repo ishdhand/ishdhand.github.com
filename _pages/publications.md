@@ -8,9 +8,9 @@ published: true
 
 # Ish Dhand's publications
 
-<img src="{{site.baseurl}}/_pages/3c0858ae-b546-11e4-852c-6c747bbdc3f3.png" alt="Ish Dhand at ResearchGate" style="width:100px;height:100px;">
-<img src="{{site.baseurl}}/_pages/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f363137323339332f313733363131352f64623631306336342d363335662d313165332d393936342d6232656262323937356632302e706e67.png" alt="Ish Dhand at Ish Dhand at Google Scholar" style="width:100px;height:100px;">
-<img src="{{site.baseurl}}/_pages/citeulike-icon.png" alt="Ish Dhand at CiteULike" style="width:100px;height:100px;">
+<a href="https://www.researchgate.net/profile/Ish_Dhand" title="Ish Dhand at ResearchGate">
+<img src="{{site.baseurl}}/_pages/3c0858ae-b546-11e4-852c-6c747bbdc3f3.png" alt="Ish Dhand at ResearchGate" style="width:20px;height:20px;">
+</a> <a href="https://scholar.google.co.in/citations?user=0mvHAe4AAAAJ" title="Ish Dhand at Google Scholar"><img src="{{site.baseurl}}/_pages/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f363137323339332f313733363131352f64623631306336342d363335662d313165332d393936342d6232656262323937356632302e706e67.png" alt="Ish Dhand at Google Scholar" style="width:20px;height:20px;"></a> <a href="http://www.citeulike.org/user/ishdhand/author/Dhand:I" title="Ish Dhand at CiteULike"><img src="{{site.baseurl}}/_pages/citeulike-icon.png" alt="Ish Dhand at CiteULike" style="width:20px;height:20px;"></a>
 
 
 <script type="text/javascript">

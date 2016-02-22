@@ -9,4 +9,4 @@ excerpt_separator: "{{ more }}"
 
 safe:     true
 pygments: false
-timezone: 'Canada/Calgary'
+timezone: 'Germany/Ulm'

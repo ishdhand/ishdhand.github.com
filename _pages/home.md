@@ -5,9 +5,6 @@ title: "Ish Dhand's Home Page"
 published: true
 ---
 
-
-
-
 ## CV
 ----------------
 
@@ -16,12 +13,15 @@ My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
 
 ## News
 ----------------
+* **2016-04-25** I am starting as a research associate at the [Institute of Theoretical Physics](http://qubit-ulm.com/), [University of Ulm](https://www.uni-ulm.de/en/homepage.html).
+
+* **2016-03-25** My thesis on [Multi-Photon Multi-Channel Interferometry for Quantum Information Processing](http://arxiv.org/abs/1603.07476) is availabe on arXiv.  
 
 * **2016-02-29** My paper on the [Accurate and precise characterization of linear optical interferometers](http://iopscience.iop.org/article/10.1088/2040-8978/18/3/035204/meta) with Abdullah Khalid, He Lu and Barry C. Sanders is published in Journal of Optics. The published version of the paper is available on [ArXiv](http://arxiv.org/abs/1508.00283). Code and data used to generate plots included in the paper are available on [Github](https://github.com/ishdhand/Simulation-of-characterization-procedure).
 
 * **2016-01-21** My paper on the [D-functions and immanants of unitary matrices and submatrices](http://iopscience.iop.org/article/10.1088/1751-8113/49/9/09LT01/) with Hubert de Guise, Dylan Spivak and Justin Kulp is published in Journal of Physics A: Mathematical and Theoretical as letter (outstanding short papers reporting new and timely developments in mathematical and theoretical physics). The published version of the paper is available on [ArXiv](http://arxiv.org/abs/1511.01851v2). 
 
-* **2015-12-01** - I have successfully defended my PhD thesis on [Multi-photon multi-channel interferometry for quantum information processing](http://www.iqst.ca/media/pdf/publications/IshDhand.pdf). 
+* **2015-12-01** - I have successfully defended my PhD thesis on Multi-photon multi-channel interferometry for quantum information processing. 
 
 * **2015-11-13** - My paper on [Algorithms for SU(n) boson realizations and D-functions](http://scitation.aip.org/content/aip/journal/jmp/56/11/10.1063/1.4935433) with Barry C. Sanders and Hubert de Guise is the featured article in the [November issue](http://scitation.aip.org/content/aip/journal/jmp/56/11) of Journal of Mathematical Physics. The published version of the paper is available on [arXiv](http://arxiv.org/abs/1507.06274). 
 

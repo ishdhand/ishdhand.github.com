@@ -27,6 +27,8 @@ ResearchGate </a><br>
 <!--
 arxiv_authorid = "dhand_i_1";
 arxiv_format = "arxiv";
+arxiv_max_entries= "0";
+arxiv_includeSubjects="0";
 //--></script>
 <style type="text/css">
 div.arxivfeed {margin-bottom: 5px; width:700px;}

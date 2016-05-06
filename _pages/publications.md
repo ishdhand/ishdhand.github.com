@@ -25,7 +25,7 @@ ResearchGate </a><br>
 ## My Articles on arXiv
 <script type="text/javascript">
 <!--
-arxiv_authorid = "stone_d_1";
+arxiv_authorid = "dhand_i_1";
 arxiv_format = "arxiv";
 //--></script>
 <style type="text/css">
@@ -34,11 +34,3 @@ div.arxivfeed {margin-bottom: 5px; width:700px;}
 <script type="text/javascript" src="http://arxiv.org/js/myarticles.js">
 </script>
 <div id="arxivfeed"><center><b><span style="color:#000000;">[Loading articles from the arXiv...]</span></b></center></div>
-                                
-<script type="text/javascript">
-<!--
-arxiv_authorid="dhand_i_1";
-arxiv_format="arxiv";
-//-->
-</script>
-<script type="text/javascript" src="http://arxiv.org/js/myarticles.js"></script>

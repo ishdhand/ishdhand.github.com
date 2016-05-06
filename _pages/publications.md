@@ -26,10 +26,8 @@ ResearchGate </a><br>
 
 <script type="text/javascript">
 <!--
-var arxiv_authorid="dhand_i_1";
-var arxiv_format="arxiv";
-var arxiv_max_entries=50;
-var arxiv_includeDOI=1;
-var arxiv_includeSubjects=1;
-//--></script>
+arxiv_authorid="dhand_i_1";
+arxiv_format="arxiv";
+//-->
+</script>
 <script type="text/javascript" src="http://arxiv.org/js/myarticles.js"></script>

@@ -26,7 +26,7 @@ ResearchGate </a><br>
 
 <script type="text/javascript">
 <!--
-var arxiv_authorid="http://arxiv.org/a/dhand_i_1";
+var arxiv_authorid="dhand_i_1";
 var arxiv_format="arxiv";
 var arxiv_max_entries=50;
 var arxiv_includeDOI=1;

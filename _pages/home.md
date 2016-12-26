@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: default
-title: "Ish Dhand's Home Page"
+title: Ish Dhand's Home Page
 published: true
 ---
 
@@ -13,6 +13,10 @@ My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
 
 ## News
 ----------------
+* **2016-12-23** We have a new preprint out on arXiv titled [Efficient tomography of a quantum many-body system](https://arxiv.org/abs/1612.08000). This preprint presents the first experimental demonstration of efficient quantum state tomography on a 14-qubit trapped-ion simulator, which is far beyond the reach of usual quantum state tomography. 
+
+* **2016-11-09** I have been awarded the Humboldt Research Fellowship for Postdoctoral Research by Alexander von Humboldt Foundation to continue research at the [Institute of Theoretical Physics](http://qubit-ulm.com/), [University of Ulm](https://www.uni-ulm.de/en/homepage.html).
+
 * **2016-04-25** I am starting as a research associate at the [Institute of Theoretical Physics](http://qubit-ulm.com/), [University of Ulm](https://www.uni-ulm.de/en/homepage.html).
 
 * **2016-03-25** My thesis on [Multi-Photon Multi-Channel Interferometry for Quantum Information Processing](http://arxiv.org/abs/1603.07476) is availabe on arXiv.  

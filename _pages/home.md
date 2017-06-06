@@ -13,6 +13,8 @@ My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
 
 ## News
 ----------------
+* **2017-06-05** We have a new preprint out on arXiv titled [Robust techniques for polarization and detection of nuclear spin ensembles](https://arxiv.org/abs/1706.01315). This preprint introduces methods for the control and readout of spin polarization via the NV center in diamond. These methods enable the possibility of employing nanodiamonds as MRI tracers.
+
 * **2016-12-23** We have a new preprint out on arXiv titled [Efficient tomography of a quantum many-body system](https://arxiv.org/abs/1612.08000). This preprint presents the first experimental demonstration of efficient quantum state tomography on a 14-qubit trapped-ion simulator, which is far beyond the reach of usual quantum state tomography. 
 
 * **2016-11-09** I have been awarded the Humboldt Research Fellowship for Postdoctoral Research by Alexander von Humboldt Foundation to continue research at the [Institute of Theoretical Physics](http://qubit-ulm.com/), [University of Ulm](https://www.uni-ulm.de/en/homepage.html).

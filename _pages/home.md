@@ -14,6 +14,7 @@ My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
 ## News
 ----------------
 
+* **2017-10-17** We have a new preprint out on arXiv titled [Quantum simulation via all-optically generated tensor network states](https://arxiv.org/abs/1710.06103). This paper presents an experimentally feasible all-optical procedure to generate tensor-network states of light and to used these states for quantum simulation.
 
 * **2017-10-04** We have a new preprint out on arXiv titled [Pulsed polarisation for robust DNP](https://arxiv.org/abs/1710.01508). In this paper, we introduce a new framework for transferring polarisation from electron to nuclear spins via dynamic nuclear polarisation. The framework delivers orders of magnitude increase in robustness to detuning, electron spectral width and pulse errors. This work enables overcoming the challenge of disorder in near surface NV ensembles for hyperpolarization of external molecules, e.g., for high-sensitivity nanoscale NMR.
 

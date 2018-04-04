@@ -5,7 +5,7 @@ markdown: kramdown
 
 include:  ['_pages']
 
-excerpt_separator: "{{ more }}"
+excerpt_separator: "<!--more-->"
 
 safe:     true
 pygments: false

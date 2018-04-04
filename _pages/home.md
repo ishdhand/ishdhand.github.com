@@ -15,8 +15,9 @@ My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
 ----------------
 
 * **2018-03-27** Our paper on [Proposal for Quantum Simulation via All-Optically-Generated Tensor Network States](https://link.aps.org/doi/10.1103/PhysRevLett.120.130501) has appeared in Physical Review Letters.
+<!-- An accessible summary of this work is in [this post]({% post_url 2018-04-02-new-prl %}). -->
 
-* **2017-12-23** Our paper on [Efficient tomography of a quantum many-body system](https://www.nature.com/articles/nphys4244) has appeared in Nature Physics. News coverage of this work is [here](https://phys.org/news/2017-09-tool-characterizing-quantum-simulators.html).
+* **2017-12-23** Our paper on [Efficient tomography of a quantum many-body system](https://www.nature.com/articles/nphys4244) has appeared in Physical Review Letters. News coverage of this work is [here](https://phys.org/news/2017-09-tool-characterizing-quantum-simulators.html).
 
 * **2017-11-27** Our paper on [Robust techniques for polarization and detection of nuclear spin ensembles](https://link.aps.org/doi/10.1103/PhysRevB.96.174436) has appeared in Physical Review B.
 

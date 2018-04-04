@@ -249,6 +249,83 @@ nav li a.active:hover {
 	background: #f8f8f8;
 }
 
+
+/* Pagination */
+
+.pagination {
+	*zoom: 1;
+}
+.pagination:before,
+.pagination:after {
+	display: table;
+	content: " ";
+}
+.pagination:after {
+	clear: both;
+}
+.pagination ul {
+	float: right;
+	display: inline-block;
+	list-style:none;
+	height:24px;
+	padding:0;
+	background: #fff;
+	border-radius:5px;
+	border:1px solid #e5e5e5;
+}
+
+.pagination li {
+	float:left;
+	height:24px;
+	border-right:1px solid #e5e5e5;
+}
+
+.pagination li:last-child {
+	border-right:none;
+}
+
+.pagination li a {
+	font-size:11px;
+	color:#999;
+	display:block;
+	text-align:center;
+	line-height:24px;
+	height:24px;
+	font-size:13px;
+	padding: 0 8px;
+	width: 1em;
+}
+
+.pagination li:first-child a {
+	border-radius:5px 0 0 5px;
+}
+
+.pagination li:last-child a {
+	border-radius:0 5px 5px 0;
+}
+
+.pagination li.prev a {
+	width: 4em;
+}
+
+.pagination li.next a {
+	width: 2.5em;
+}
+
+.pagination li a:hover,
+.pagination li a:active {
+	color:#444;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.pagination li a:active,
+.pagination li a.active,
+.pagination li a.active:hover {
+	background: #f8f8f8;
+}
+
+
 /* Post Content */
 
 .post-title {
@@ -336,17 +413,17 @@ img.pull-left {
 /* Responsive Adjustments */
 
 @media print, screen and (max-width: 1050px) {
-
+	
 	div.wrapper {
 		width:600px;
 	}
-
+	
 	header, section, footer {
 		float:none;
 		position:static;
 		width:auto;
 	}
-
+	
 	header {
 		background: none;
 		position: relative;
@@ -355,24 +432,24 @@ img.pull-left {
 		min-height: 0;
 		border: none;
 	}
-
+	
 	section {
 		border:1px solid #eee;
 		border-width:1px 0;
 		padding:20px 0;
 		margin:0 0 20px;
 	}
-
+	
 	header a small {
 		display:inline;
 	}
-
+	
 	header ul {
 		position:absolute;
 		right:0;
 		top:5px;
 	}
-
+	
 	footer {
 		text-align: center;
 		max-width: 400px;
@@ -385,29 +462,29 @@ img.pull-left {
 		word-wrap:break-word;
 		padding-top: 15px;
 	}
-
+	
 	div.wrapper {
 		width:auto;
 		margin: 0;
 	}
-
+	
 	header {
 		padding: 0 0 15px;
 	}
-
+	
 	nav ul {
 	 position: static;
 	 margin: 0 auto;
 	}
-
+	
 	header p.view {
 		position:static;
 	}
-
+	
 	header {
 		text-align: center;
 	}
-
+	
 	pre, pre > code {
 		word-wrap:normal;
 	}

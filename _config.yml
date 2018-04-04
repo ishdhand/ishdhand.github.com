@@ -5,8 +5,8 @@ markdown: kramdown
 
 include:  ['_pages']
 
-excerpt_separator: "<!--more-->"
+excerpt_separator: "{{ more }}"
 
-safe:     false
+safe:     true
 pygments: false
 timezone: 'Germany/Ulm'

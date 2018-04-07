@@ -10,3 +10,7 @@ excerpt_separator: "<!--more-->"
 safe:     true
 pygments: false
 timezone: 'Germany/Ulm'
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap

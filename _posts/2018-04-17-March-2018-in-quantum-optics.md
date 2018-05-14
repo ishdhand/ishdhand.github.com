@@ -1,9 +1,9 @@
 ---
 layout: post
-title: March 2018 in Quantum Optics
+title: "March 2018 in Quantum Optics"
 date: 2018-04-17T00:00:00.000Z
 comments: true
-published: true
+
 ---
 
 New research on quantum has [exploded in the last decade](https://arxiv.org/help/stats/2017_by_area/index#quant-ph_gr-qc_yearly). The number of articles in quantum optics and photonics seems to have gone up hand in hand. These public-facing reading notes are my attempt to tame the flood of new research in the field and to keep myself up to date:
@@ -23,7 +23,7 @@ New research on quantum has [exploded in the last decade](https://arxiv.org/help
 
   > 15X15 dimensional entanglement on a linear optics chip. A photon pair is generated coherently across 16 (!!) spontaneous four-wave mixing photon-pair sources and routed through linear optics to generate a representative class of entangled states. These states are ideal for playing with high-dimensional entanglement. The Kilohertz reconfiguration rates in conjunction with 0.984 average Hong-Ou-Mandel visibilities set a high bar for future experiments.
 
-- Mennea, P. L., Clements, W. R., Smith, D. H., Gates, J. C., Metcalf, B. J., Bannerman, R. H. S., Burgwal, R., Renema, J. J., Kolthammer, W. S., Walmsley, I. A., & Smith, P. G. R. [arXiv:1803.04539](https://arxiv.org/pdf/1803.04539). _Modular Linear Optical Circuits_.
+- Mennea, P. L., Clements, W. R., Smith, D. H., Gates, J. C., Metcalf, B. J., Bannerman, R. H. S., Burgwal, R., Renema, J. J., Kolthammer, W. S., Walmsley, I. A., & Smith, P. G. R. [arXiv:1803.04539](https://arxiv.org/abs/1803.04539). _Modular Linear Optical Circuits_.
 
   > A modular approach to on-chip linear optics. The preprint demonstrates shallow-depth linear optics circuits that can be put together like lego blocks. Unlike lego blocks, these modules can together implement arbitrary linear optics transformations (average fidelity = 97.5% for fifty random unitaries). The modules use phase shifters in which both modes are heated to shift the phase and this 'push-pull' operation is expected to be more stable as a constant amount of current passes through the heaters.
 
@@ -43,16 +43,16 @@ New research on quantum has [exploded in the last decade](https://arxiv.org/help
 
   > An elegant integrated-optics demonstration of quantum homomorphic encryption, which enables computation on encrypted data such that the output gives the correct answer when decrypted. In this demonstration, the client encrypts their input state in the polarization degree of freedom of photons, which are impinged at an integrated-waveguide server. The server performs the computation using the path degree of freedom and returns the encrypted answer to the client, who undoes the polarization encryption to obtain the correct answer. For me, this was an invitation to reading more about quantum homomorphic encryption and blind quantum computation.
 
-- Jabbour, M. G., & Cerf, N. J. [arXiv:1803.10730](https://arxiv.org/pdf/1803.10730). _Multiphoton interference effects in passive and active Gaussian transformations_.
+- Jabbour, M. G., & Cerf, N. J. [arXiv:1803.10730](https://arxiv.org/abs/1803.10730). _Multiphoton interference effects in passive and active Gaussian transformations_.
 
   > Recurrence equations for multi-photon transition probabilities applied to beamsplitters and two-mode squeezers. Sequences of multi-photon transition amplitudes over different photon numbers are written in terms of their generating functions. These expressions for beamsplitters look very similar to those of two-mode squeezers. In fact, two-mode squeezer amplitudes are the same as those of a beamsplitter if time is reversed for one of the two modes! The generating functions allow the derivation of recurrence relations for multi-photon transition probabilities; these recursion relations make photon interference explicit as additional terms that are absent for distinguishable particles. The recurrence relations take the beamsplitter-squeezer analogy one step further: for certain parameters, a two-mode squeezer emits no single-photon pair states because of a Hong-Ou-Mandel-like extinction.
 
-- Arrazola, J. M., Bromley, T. R., & Rebentrost, P. [arXiv:1803.10731](https://arxiv.org/pdf/1803.10731). _Quantum approximate optimization with Gaussian boson sampling_.
+- Arrazola, J. M., Bromley, T. R., & Rebentrost, P. [arXiv:1803.10731](https://arxiv.org/abs/1803.10731). _Quantum approximate optimization with Gaussian boson sampling_.
 
   > Gaussian boson sampling is advantageous to stochastic optimization. Current stochastic optimization algorithms use randomness for faster convergence and for escaping local optima. The output of a Gaussian boson sampler can provide randomness, biased randomness no less, which improves the performance of these algorithms. Max-Haf is the canonical optimization problem for Gaussian boson samplers, and the performance of classical algorithms for solving this problem sees distinct improvement if a hybrid quantum-classical approach of consulting Gaussian boson samplers is used. The power of this method lies in the ability to improve solutions to NP hard problems other than Max-Haf (see below for an exciting example!).
 
-- Arrazola, J. M., & Bromley, T. R. [arXiv:1803.10730](https://arxiv.org/pdf/1803.10730). _Using Gaussian Boson Sampling to Find Dense Subgraphs_.
+- Arrazola, J. M., & Bromley, T. R. [arXiv:1803.10730](https://arxiv.org/abs/1803.10730). _Using Gaussian Boson Sampling to Find Dense Subgraphs_.
 
-  > Stochastic algorithms for finding densest subgraphs are enhanced using biased randomness from Gaussian boson samplers. The problem of finding the densest k-subgraph of a given graph is of broad practical interest and is NP hard so approximate methods are required. The main result here is that samples from a Gaussian boson sampling device can improve the performance of stochastic algorithms. This is done by consulting the sampler in both steps where these algorithms use randomness: exploring a fitness landscape and exploiting its local structure. A specific random graph is chosen for performance testing, one that is difficult for deterministic algorithms to deal with so stochastic methods must be resorted to. For this graph, the hybrid classical-quantum approach of using a Gaussian boson sampler improves performance. The improvement is drastic for small numbers of samples. The general template for enhancements of this types is explained in the companion paper [arXiv:1803.10731](https://arxiv.org/pdf/1803.10731) mentioned above.
+  > Stochastic algorithms for finding densest subgraphs are enhanced using biased randomness from Gaussian boson samplers. The problem of finding the densest k-subgraph of a given graph is of broad practical interest and is NP hard so approximate methods are required. The main result here is that samples from a Gaussian boson sampling device can improve the performance of stochastic algorithms. This is done by consulting the sampler in both steps where these algorithms use randomness: exploring a fitness landscape and exploiting its local structure. A specific random graph is chosen for performance testing, one that is difficult for deterministic algorithms to deal with so stochastic methods must be resorted to. For this graph, the hybrid classical-quantum approach of using a Gaussian boson sampler improves performance. The improvement is drastic for small numbers of samples. The general template for enhancements of this types is explained in the companion paper [arXiv:1803.10731](https://arxiv.org/abs/1803.10731) mentioned above.
 
 Did I miss something that you found interesting? Let me know!

@@ -14,6 +14,8 @@ My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
 ## News
 ----------------
 
+* **2018-06-28** We have a new manuscript on arXiv titled "[Understanding quantum physics through simple experiments: from wave-particle duality to Bell's theorem](https://arxiv.org/abs/1806.09958)". At 29000 words, this is a long read so an approachable summary is [here]({% post_url 2018-06-28-new-manuscript-quantum-manuscripts %}).
+
 * **2018-03-27** Our paper on [Proposal for Quantum Simulation via All-Optically-Generated Tensor Network States](https://link.aps.org/doi/10.1103/PhysRevLett.120.130501) has appeared in Physical Review Letters. *Update*: [Here]({% post_url 2018-04-07-new-prl %}) is an accessible summary.
 
 * **2017-12-23** Our paper on [Efficient tomography of a quantum many-body system](https://www.nature.com/articles/nphys4244) has appeared in Nature Physics. News coverage of this work is [here](https://phys.org/news/2017-09-tool-characterizing-quantum-simulators.html).

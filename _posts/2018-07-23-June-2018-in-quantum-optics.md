@@ -1,12 +1,13 @@
 ---
 layout: post
 title: June 2018 in Quantum Optics
+date: 2018-07-23
 comments: true
 ---
 
-Here are my quantum optics and photonics reading notes from June 2018.
+Here are my quantum optics and photonics reading notes from June 2018: including a linear interferometer with source and detector on chip and theoretical advances on discriminating distinguishability and on linear bosonic channels.
 
-<!-- more -->
+<!--more-->
 
 - Huang, H.-L., Luo, Y.-H., Bai, B., Deng, Y.-H., Wang, H., Zhong, H.-S., Nie, Y.-Q., Jiang, W.-H., Wang, X.-L., Zhang, J., Li, L., Liu, N., Byrnes, T., Dowling, J. P., Lu, C., & Pan, J. [arXiv:1806.00156](http://arxiv.org/abs/1806.00156). _A loophole-free Wheeler-delayed-choice experiment_. and Polino, E., Agresti, I., Poderini, D., Carvacho, G., Milani, G., Lemos, G. B., Chaves, R., & Sciarrino, F. [arXiv:1806.00211](http://arxiv.org/abs/1806.00211). _Device independent certification of a quantum delayed choice experiment_.
 

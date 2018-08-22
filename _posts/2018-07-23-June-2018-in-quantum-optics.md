@@ -1,7 +1,6 @@
 ---
 layout: post
 title: June 2018 in Quantum Optics
-date: 2018-07-23
 comments: true
 ---
 
@@ -9,7 +8,8 @@ Here are my quantum optics and photonics reading notes from June 2018: including
 
 <!--more-->
 
-- Huang, H.-L., Luo, Y.-H., Bai, B., Deng, Y.-H., Wang, H., Zhong, H.-S., Nie, Y.-Q., Jiang, W.-H., Wang, X.-L., Zhang, J., Li, L., Liu, N., Byrnes, T., Dowling, J. P., Lu, C., & Pan, J. [arXiv:1806.00156](http://arxiv.org/abs/1806.00156). _A loophole-free Wheeler-delayed-choice experiment_. and Polino, E., Agresti, I., Poderini, D., Carvacho, G., Milani, G., Lemos, G. B., Chaves, R., & Sciarrino, F. [arXiv:1806.00211](http://arxiv.org/abs/1806.00211). _Device independent certification of a quantum delayed choice experiment_.
+- Huang, H.-L., Luo, Y.-H., Bai, B., Deng, Y.-H., Wang, H., Zhong, H.-S., Nie, Y.-Q., Jiang, W.-H., Wang, X.-L., Zhang, J., Li, L., Liu, N., Byrnes, T., Dowling, J. P., Lu, C., & Pan, J. [arXiv:1806.00156](http://arxiv.org/abs/1806.00156). _A loophole-free Wheeler-delayed-choice experiment_. and
+- Polino, E., Agresti, I., Poderini, D., Carvacho, G., Milani, G., Lemos, G. B., Chaves, R., & Sciarrino, F. [arXiv:1806.00211](http://arxiv.org/abs/1806.00211). _Device independent certification of a quantum delayed choice experiment_.
 
   > Experimental verification of loophole-free modified delayed choice experiment. The delayed choice thought experiment highlights a tension between quantum physics and hidden variable models that respect causality. The actual experiment has been performed [earlier](http://science.sciencemag.org/content/315/5814/966.full) and quantum physics emerged unscathed to the surprise of no one. That said, it is good to be careful, and doubly so in light of [this earlier work by Chaves Lemos and Pienaar](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.190401), which showed that the original delayed choice experiment does admit a simple causal hidden variable model. Fortunately the work also provided a modified version in which quantum physics is provably incompatible with causal hidden variables. These two experiments, from Shanghai/Hefei and from Rome have verified that quantum predictions indeed hold even in this modified setting.
 
@@ -44,3 +44,11 @@ Here are my quantum optics and photonics reading notes from June 2018: including
 - Lami, L., Sabapathy, K. K., & Winter, A. [arXiv:1806.11042](http://arxiv.org/abs/1806.11042). _All phase-space linear bosonic channels are approximately Gaussian dilatable_.
 
   > The set of phase-space linear bosonic channels coincides with the closure of Gaussian dilatable channels. The proof relies on showing (i) that the set of linear bosonic channels is strong-operator closed, (ii) that the closure of the set of Gaussian dilatable channels contains it, (iii) [earlier result](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.95.062309) and explicit derivation that every Gaussian dilatable channel is linear bosonic. Taking the closure is necessary as proven from an example of a linear bosonic channel (binary displacement channel) that has no Gaussian dilation even if the ancillary state is allowed to have infinite energy. Theorem 13 provides the main result and Lemma 11 a simplified example. Figure 2 depicts the hierarchy of bosonic channels. This self-contained article provides rigorous proofs yet it reads like a breeze!
+
+--------------------------------------------------------------------------------
+
+Earlier reading lists:
+
+- [May 2018]({{ site.baseurl }}{% post_url 2018-06-18-May-2018-in-quantum-optics %}),
+- [April 2018]({{ site.baseurl }}{% post_url 2018-05-06-April-2018-in-quantum-optics %}),
+- [March 2018]({{ site.baseurl }}{% post_url 2018-04-17-March-2018-in-quantum-optics %})

@@ -10,9 +10,12 @@ published: true
 
 My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
 
-
 ## News
 ----------------
+
+* **2018-12-19** We have a new manuscript on arXiv titled "[Hybrid spatio-temporal architectures for universal linear optics](https://arxiv.org/abs/1812.07939)".
+
+* **2018-08-31** Our manuscript on "[Robust optical polarization of nuclear spin baths using Hamiltonian engineering of nitrogen-vacancy center quantum dynamics](http://advances.sciencemag.org/content/4/8/eaat8978)" is now published in Science Advances. In this work, a robust and fast principle of optical hyper-polarization is proposed and demonstrated experimentally using NV centers.
 
 * **2018-06-28** We have a new manuscript on arXiv titled "[Understanding quantum physics through simple experiments: from wave-particle duality to Bell's theorem](https://arxiv.org/abs/1806.09958)". At 29000 words, this is a long read so an approachable summary is [here]({% post_url 2018-06-28-new-manuscript-quantum-manuscripts %}).
 

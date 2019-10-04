@@ -1,76 +1,19 @@
 ---
 permalink: /
 layout: default
-title: Ish Dhand's Home Page
+title: Ish Dhand's Home Page and Blog
 published: true
 ---
 
-## CV
-----------------
+## Blog
+-----------------
 
-My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
-
-## News
-----------------
-
-* **2018-12-19** We have a new manuscript on arXiv titled "[Hybrid spatio-temporal architectures for universal linear optics](https://arxiv.org/abs/1812.07939)".
-
-* **2018-08-31** Our manuscript on "[Robust optical polarization of nuclear spin baths using Hamiltonian engineering of nitrogen-vacancy center quantum dynamics](http://advances.sciencemag.org/content/4/8/eaat8978)" is now published in Science Advances. In this work, a robust and fast principle of optical hyper-polarization is proposed and demonstrated experimentally using NV centers.
-
-* **2018-06-28** We have a new manuscript on arXiv titled "[Understanding quantum physics through simple experiments: from wave-particle duality to Bell's theorem](https://arxiv.org/abs/1806.09958)". At 29000 words, this is a long read so an approachable summary is [here]({% post_url 2018-06-28-new-manuscript-quantum-manuscripts %}).
-
-* **2018-03-27** Our paper on [Proposal for Quantum Simulation via All-Optically-Generated Tensor Network States](https://link.aps.org/doi/10.1103/PhysRevLett.120.130501) has appeared in Physical Review Letters. *Update*: [Here]({% post_url 2018-04-07-new-prl %}) is an accessible summary.
-
-* **2017-12-23** Our paper on [Efficient tomography of a quantum many-body system](https://www.nature.com/articles/nphys4244) has appeared in Nature Physics. News coverage of this work is [here](https://phys.org/news/2017-09-tool-characterizing-quantum-simulators.html).
-
-* **2017-11-27** Our paper on [Robust techniques for polarization and detection of nuclear spin ensembles](https://link.aps.org/doi/10.1103/PhysRevB.96.174436) has appeared in Physical Review B.
-
-* **2017-10-17** We have a new preprint out on arXiv titled [Quantum simulation via all-optically generated tensor network states](https://arxiv.org/abs/1710.06103). This paper presents an experimentally feasible all-optical procedure to generate tensor-network states of light and to used these states for quantum simulation.
-
-* **2017-10-04** We have a new preprint out on arXiv titled [Pulsed polarisation for robust DNP](https://arxiv.org/abs/1710.01508). In this paper, we introduce a new framework for transferring polarisation from electron to nuclear spins via dynamic nuclear polarisation. The framework delivers orders of magnitude increase in robustness to detuning, electron spectral width and pulse errors. This work enables overcoming the challenge of disorder in near surface NV ensembles for hyperpolarization of external molecules, e.g., for high-sensitivity nanoscale NMR.
-
-* **2017-06-05** We have a new preprint out on arXiv titled [Robust techniques for polarization and detection of nuclear spin ensembles](https://arxiv.org/abs/1706.01315). This preprint introduces methods for the control and readout of spin polarization via the NV center in diamond. These methods are an important step towards employing nanodiamonds as MRI tracers.
-
-* **2016-12-23** We have a new preprint out on arXiv titled [Efficient tomography of a quantum many-body system](https://arxiv.org/abs/1612.08000). This preprint presents the first experimental demonstration of efficient quantum state tomography on a 14-qubit trapped-ion simulator, which is far beyond the reach of usual quantum state tomography.
-
-* **2016-11-09** I have been awarded the Humboldt Research Fellowship for Postdoctoral Research by Alexander von Humboldt Foundation to continue research at the [Institute of Theoretical Physics](http://qubit-ulm.com/), [University of Ulm](https://www.uni-ulm.de/en/homepage.html).
-
-* **2016-04-25** I am starting as a research associate at the [Institute of Theoretical Physics](http://qubit-ulm.com/), [University of Ulm](https://www.uni-ulm.de/en/homepage.html).
-
-* **2016-03-25** My thesis on [Multi-Photon Multi-Channel Interferometry for Quantum Information Processing](http://arxiv.org/abs/1603.07476) is availabe on arXiv.  
-
-* **2016-02-29** My paper on the [Accurate and precise characterization of linear optical interferometers](http://iopscience.iop.org/article/10.1088/2040-8978/18/3/035204/meta) with Abdullah Khalid, He Lu and Barry C. Sanders is published in Journal of Optics. The published version of the paper is available on [ArXiv](http://arxiv.org/abs/1508.00283). Code and data used to generate plots included in the paper are available on [Github](https://github.com/ishdhand/Simulation-of-characterization-procedure).
-
-* **2016-01-21** My paper on the [D-functions and immanants of unitary matrices and submatrices](http://iopscience.iop.org/article/10.1088/1751-8113/49/9/09LT01/) with Hubert de Guise, Dylan Spivak and Justin Kulp is published in Journal of Physics A: Mathematical and Theoretical as letter (outstanding short papers reporting new and timely developments in mathematical and theoretical physics). The published version of the paper is available on [ArXiv](http://arxiv.org/abs/1511.01851v2).
-
-* **2015-12-01** - I have successfully defended my PhD thesis on Multi-photon multi-channel interferometry for quantum information processing.
-
-* **2015-11-13** - My paper on [Algorithms for SU(n) boson realizations and D-functions](http://scitation.aip.org/content/aip/journal/jmp/56/11/10.1063/1.4935433) with Barry C. Sanders and Hubert de Guise is the featured article in the [November issue](http://scitation.aip.org/content/aip/journal/jmp/56/11) of Journal of Mathematical Physics. The published version of the paper is available on [arXiv](http://arxiv.org/abs/1507.06274).
-
-* **2015-11-04** - My work on [D-functions and immanants of unitary matrices and submatrices](http://arxiv.org/abs/1511.01851) with Hubert de Guise, Dylan Spivak and Justin Kulp is up on the arXiv.
-
-* **2015-10-27** - My paper on [Algorithms for SU(n) boson realizations and D-functions](http://arxiv.org/abs/1507.06274) with Barry C. Sanders and Hubert de Guise has been accepted for publication in Journal of Mathematical Physics.
-
-* **2015-10-13** - My paper on the [Realization of arbitrary discrete unitary transformations using spatial and internal modes of light
-](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.043813) with Sandeep K. Goyal is now published in Physical Review A. The complete matlab code for our decomposition is available [on GitHub](https://github.com/ishdhand/Internal-Spatial-Decomposition) and the published version of the paper is available on [arXiv](http://arxiv.org/abs/1508.06259).
-
-* **2015-08-25** - My work on the [Realization of arbitrary discrete unitary transformations using spatial and internal modes of light
-](http://arxiv.org/abs/1508.06259) with Sandeep K. Goyal is up on ArXiv.
-
-* **2015-08-04** - My work on the [Accurate and precise characterization of linear optical interferometers](http://arxiv.org/abs/1508.00283) with Abdullah Khalid, He Lu and Barry C. Sanders is now up on ArXiv.
-
-* **2015-07-22** - My paper on the [Algorithms for SU(n) boson realizations and D-functions](http://arxiv.org/abs/1507.06274) with Barry C. Sanders and Hubert de Guise is now up on ArXiv.
-
-* **2015-04-07** - My work on [Accurate and Precise Characterization of Linear Optical Devices](http://spie.org/OP416) with Abdullah Khalid, He Lu and Barry C. Sanders has been accepted as a invited paper at [SPIE Optical Engineering + Applications](http://spie.org/x30491.xml?WT.mc_id=ROP15GB). I will be presenting at San Diego on 2015-08-10.
-
-* **2015-03-16** - My work on [Accurate and Precise Characterization of Linear Optical Interferometers](https://indico.cern.ch/event/355942/contribution/528) with Abdullah Khalid, He Lu and Barry C. Sanders has been accepted as a contributed talk at [CAP Congress - 2015](http://www.cap.ca/en/congress/2015).
-
-* **2015-03-11** - My work on [Algorithms for Boson Realizations of SU(n)](https://indico.cern.ch/event/355942/session/267/contribution/665) with Hubert de Guise and Barry C. Sanders has been accepted as a contributed poster at the [CAP Congress - 2015](http://www.cap.ca/en/congress/2015).
-
-* **2015-01-30** - I am co-organizing the Workshop on Multi-Photon Interferometry at Shanghai, China during 7-11 May 2015. The webpage for the workshop is now up: [MPI - 2015](http://mpi2015.org).
-
-* **2014-10-31** - My work on [Group-theoretic Algorithms for Multiphoton Interferometry](http://www.quantum-lab.org/qip2015/posters/87-Dhand.pdf) with Hubert de Guise and Barry C. Sanders has been accepted for poster presentation at [QIP - 2015](http://quantum-lab.org/qip2015/).
-
-* **2014-05-21** - My paper on the [Stability of the Trotter-Suzuki Decomposition](http://iopscience.iop.org/1751-8121/47/26/265206/) with Barry C. Sanders has been published in [Journal of Physics A: Mathematical and Theoretical](http://iopscience.iop.org/1751-8121/). The paper is features on the [cover](http://iopscience.iop.org/1751-8121/page/Volume-47-Cover-Gallery) of the July issue. The published version of the paper is available on [ArXiv](http://arxiv.org/abs/1403.3469).
-
-* **2014-03-14** - I have uploaded my paper on the [Stability of the Trotter-Suzuki Decomposition](http://arxiv.org/abs/1403.3469) with Barry C. Sanders to the ArXiv.
+<ul>
+    {% for post in site.posts %}
+    {% capture readtime %}{{ post.content | number_of_words | plus:91 | divided_by:180.0 | append:'.' | split:'.' | first }}{% endcapture %}
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date_to_string }} |
+        {% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. read </p>
+        {{ post.excerpt }}
+    {% endfor %}
+</ul>

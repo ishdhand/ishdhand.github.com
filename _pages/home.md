@@ -13,6 +13,14 @@ My CV is available [here](https://ishdhand.github.com/CV_Ish_Dhand.pdf).
 ## News
 ----------------
 
+* **2019-09-20** Our new manuscript [Efficient simulation of open quantum systems coupled to a fermionic bath](https://arxiv.org/abs/1909.09589) is on the arxiv.
+
+* **2019-08-15** We have a new manuscript on the arxiv titled [Exponential enhancement of multi-photon entanglement rate via quantum interference buffering](https://arxiv.org/abs/1908.05722). 
+
+* **2019-06-03** Our work on [Hybrid spatiotemporal architectures for universal linear optics](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.99.062301) is now published in Physical Review A.
+
+* **2019-01-18** I have won the University Ulm research bonus awarded each year to three young researchers across all faculties. I am grateful to my mentors for their support in the last few years. [Report here](https://www.uni-ulm.de/in/fakultaet/in-detailseiten/news-detail/article/stecken-sie-andere-mit-ihrer-leidenschaft-anuni-ulm-vergibt-forschungs-und-lehrboni/).
+
 * **2018-12-19** We have a new manuscript on arXiv titled "[Hybrid spatio-temporal architectures for universal linear optics](https://arxiv.org/abs/1812.07939)".
 
 * **2018-08-31** Our manuscript on "[Robust optical polarization of nuclear spin baths using Hamiltonian engineering of nitrogen-vacancy center quantum dynamics](http://advances.sciencemag.org/content/4/8/eaat8978)" is now published in Science Advances. In this work, a robust and fast principle of optical hyper-polarization is proposed and demonstrated experimentally using NV centers.

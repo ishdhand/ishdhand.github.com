@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
-Sitemap: http://ishdhand.me/sitemap
+Sitemap: https://ishdhand.me/sitemap
 

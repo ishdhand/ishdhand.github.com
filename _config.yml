@@ -1,7 +1,7 @@
 url:    'https://ishdhand.me'
 author: 'Ish Dhand'
 markdown: kramdown
-description: "Ish Dhand is the quantum architecture team lead at Xanadu Quantum Technologies Inc, Toronto. Visit this webpage and blog for more information on his research in photonic quantum computation."
+description: "Ish Dhand is a quantum computing researcher. Visit this webpage and blog for more information on his research in photonic quantum computation."
 
 include:  ['_pages']
 

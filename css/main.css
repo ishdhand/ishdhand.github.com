@@ -30,9 +30,9 @@ table{width:100%;border-collapse:collapse}
 th,td{text-align:left;padding:5px 10px;border-bottom:1px solid #e5e5e5}
 dt{color:#444;font-weight:700}
 th{color:#444}
-header{width:300px;float:left;position:fixed;border-right:1px solid #eee;padding:50px 30px 50px 0;min-height:100%;margin:-50px 0}
+header{width:250px;float:left;position:fixed;border-right:1px solid #eee;padding:50px 30px 50px 0;min-height:100%;margin:0px 0}
 header h1{margin-bottom:12px}
-nav ul{list-style:none;height:24px;padding:0;background:#fff;border-radius:5px;border:1px solid #e5e5e5;width:296px}
+nav ul{list-style:none;height:24px;padding:0;background:#fff;border-radius:5px;border:1px solid #e5e5e5;width:200px}
 nav li{float:left;height:24px;width:97px;border-right:1px solid #e5e5e5}
 nav li:last-child{border-right:0;width:98px}
 nav li a{font-size:11px;color:#999;display:block;text-align:center;line-height:24px;height:24px;font-size:13px}
@@ -49,8 +49,8 @@ nav li a:active,nav li a.active,nav li a.active:hover{background:#f8f8f8}
 a.post-banner{-webkit-transition:all .2s ease-in-out}
 a.post-banner:hover{background-size:auto 104%}
 .post-excerpt{margin-bottom:2em}
-footer{font-size:14px;text-align:center;width:300px;float:left;position:fixed;bottom:50px}
-img.avatar{width:100px}
+footer{font-size:14px;text-align:center;width:250px;float:left;position:fixed;bottom:50px}
+img.avatar{width:150px}
 img.profile{border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;width:100px;height:100px}
 img.pull-right{max-width:40%;float:right;margin:0 0 1em 1em}
 img.pull-left{max-width:40%;float:right;margin:0 1em 1em 0}

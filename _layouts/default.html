@@ -22,7 +22,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 {% endif %}
 		<link rel="stylesheet" href="/css/main.css" />
 		<link rel="stylesheet" href="/css/syntax.css" />
-        <link rel="shortcut icon" type="image/png" href="{{ "/img/favicon.png" | prepend: site.baseurl }}" >
+        <link rel="shortcut icon" type="image/png" href="{{"/img/favicon.png" | prepend: site.baseurl }}" >
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<!--[if lt IE 9]>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -35,18 +35,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<header>
 				<nav><ul>
 					<li><a {% if location == 'home' %}class="active" {% endif %}href="/">Home</a></li>
-					<li><a {% if location == 'publications' %}class="active" {% endif %}href="/publications/">Publications</a></li>
 					<li><a {% if location == 'blog' %}class="active" {% endif %}href="/blog/">Blog</a></li>
 				</ul></nav>
 			</header>
 			<section>
 				{{ content }}
 			</section>
-            <footer>
-
+            <footer>`
                 <img class="avatar" src="/img/IshDhand.jpg" alt="Ish Dhand" title="Ish Dhand" />
-                <p><a href="/">Ish Dhand</a> leads the Quantum Architecture team at <a href="https://www.xanadu.ai">Xanadu Quantum Technologies Inc.</a><p>
-                    Office: 2902-777 Bay St. Toronto <br>
+                <p> Ish Dhand | Quantum computing and photonics researcher at <a href="https://www.uni-ulm.de/en/">University of Ulm.</a> | Ex: Head of Architecture at <a href = "https://xanadu.ai/">Xanadu</a> <p>
                     Email: <a href="mailto:ishdhand@gmail.com">ishdhand (at) gmail.com</a>
                 </p>
             </footer>

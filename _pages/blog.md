@@ -7,6 +7,8 @@ published: true
 
 # Blog
 
+I used to blog about recent articles in quantum optics till late 2019. Leaving the posts here as an archive:
+
 <ul>
     {% for post in site.posts %}
     {% capture readtime %}{{ post.content | number_of_words | plus:91 | divided_by:180.0 | append:'.' | split:'.' | first }}{% endcapture %}

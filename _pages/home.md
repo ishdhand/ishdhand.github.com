@@ -15,7 +15,7 @@ During my postdoctoral research, my colleagues and I performed the [world-record
 
 My PhD focussed on powerful new methods for the [design, characterization and simulation of photonic quantum computers](https://arxiv.org/abs/1603.07476).
 
-Happy to chat about quantum computing! Get in touch with me on <a href = "https://www.linkedin.com/in/ishdhand/">Linkedin <img src="{{site.baseurl}}/img/LI.png" alt="linkedin" style="width:15px;height:15px;"></a>.
+Happy to chat about quantum computing! Get in touch with me over <a href="mailto:ishdhand@gmail.com">ishdhand (at) gmail.com</a>
 
 ---
 

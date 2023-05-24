@@ -7,11 +7,11 @@ published: true
 
 ## About me
 
-I am a photonics quantum computing researcher at the [University of Ulm](https://www.uni-ulm.de/en/).
+I am CEO and co-founder of [QC Design](https://www.qc.design/), a quantum computing company that designs useful and scalable quantum computers.
 
 Earlier, I headed [Xanadu](https://xanadu.ai/)'s Architecture team, where I led the theoretical effort to [design Xanadu's  quantum computer](https://quantum-journal.org/papers/q-2021-02-04-392/) and to chart the [path to quantum advantage with photonics](https://arxiv.org/abs/2102.12474).
 
-During my postdoctoral research, my colleagues and I performed the [world-record tomography of a 14-qubit computer](https://www.nature.com/articles/nphys4244), and we [devised novel optical quantum simulators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.130501). 
+My postdoctoral research focussed on quantum computing. My colleagues and I performed the [world-record tomography of a 14-qubit computer](https://www.nature.com/articles/nphys4244), and we [devised novel optical quantum simulators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.130501). 
 
 My PhD focussed on powerful new methods for the [design, characterization and simulation of photonic quantum computers](https://arxiv.org/abs/1603.07476).
 

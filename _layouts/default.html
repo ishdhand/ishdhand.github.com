@@ -11,41 +11,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-T49P4T');</script>
 <!-- End Google Tag Manager -->
 
-		<meta name="description" content="Ish Dhand is a postdoctoral Researcher at the Institute of Theoretical Physics, University of Ulm. Visit this webpage and blog for more information on his research in quantum optics and quantum information." />
+		<meta name="description" content="Ish Dhand is CEO and co-founder of QC Design, a quantum computing startup that offers software for designing scalable quantum computers." />
 		<meta charset="utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="chrome=1" />
 		<title>{% if page.title %}{{ page.title }}{% else %}Ish Dhand{% endif %}</title>
 
 		<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-{% if page.blogfeed %}
-		<link rel="alternate" type="application/atom+xml" title="{{ site.name }} — Feed" href="{{ site.url }}/blog/feed.atom" />
-{% endif %}
 		<link rel="stylesheet" href="/css/main.css" />
-		<link rel="stylesheet" href="/css/syntax.css" />
         <link rel="shortcut icon" type="image/png" href="{{"/img/favicon.png" | prepend: site.baseurl }}" >
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<!--[if lt IE 9]>
 		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
-        {% if jekyll.environment == 'production' %}
-        {% include analytics.html %}
-        {% endif %}	</head>
+	</head>
 	<body>
 		<div class="wrapper{% if location == '' %} home{% endif %}">
 			<header>
-				<nav><ul>
-					<li><a {% if location == 'home' %}class="active" {% endif %}href="/">Home</a></li>
-					<li><a {% if location == 'blog' %}class="active" {% endif %}href="/blog/">Blog</a></li>
-				</ul></nav>
 			</header>
 			<section>
 				{{ content }}
 			</section>
             <footer>
                 <img class="avatar" src="/img/IshDhand.jpg" alt="Ish Dhand" title="Ish Dhand" />
-                <p> Ish Dhand | CEO and Co-founder @ <a href="https://www.qc.design/">QC Design</a> <p>
-                    Email: <a href="mailto:ish@qc.design">ish (at) qc.design</a>
-                </p>
+                <p> Ish Dhand | CEO and Co-founder @ <a href="https://www.qc.design/">QC Design</a></p>
             </footer>
 		</div>
 

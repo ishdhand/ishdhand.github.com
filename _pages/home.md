@@ -7,7 +7,7 @@ published: true
 
 ## About me
 
-I am CEO and co-founder of [QC Design](https://www.qc.design/), a quantum computing company that designs useful and scalable quantum computers.
+I am CEO and co-founder of [QC Design](https://www.qc.design/), a quantum computing startup that offers software for designing scalable quantum computers. Our software, Plaquette, is used by the world's leading companies that are building fault-tolerant quantum computers.
 
 Earlier, I headed [Xanadu](https://xanadu.ai/)'s Architecture team, where I led the theoretical effort to [design Xanadu's  quantum computer](https://quantum-journal.org/papers/q-2021-02-04-392/) and to chart the [path to quantum advantage with photonics](https://arxiv.org/abs/2102.12474).
 
@@ -15,7 +15,6 @@ My postdoctoral research focussed on quantum computing. My colleagues and I perf
 
 My PhD focussed on powerful new methods for the [design, characterization and simulation of photonic quantum computers](https://arxiv.org/abs/1603.07476).
 
-Happy to chat about quantum computing! Get in touch with me over <a href="mailto:ishdhand@gmail.com">ishdhand (at) gmail.com</a>
 
 ---
 

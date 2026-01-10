@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(cd:*)",
+      "Bash(gem install:*)",
+      "Bash(bundle install:*)",
+      "Bash(~/.gem/ruby/2.6.0/bin/bundle install)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)",
+      "Bash(wc:*)",
+      "Bash(grep:*)",
+      "Bash(bundle exec jekyll build:*)",
+      "Bash(bundle exec jekyll:*)",
+      "Bash(curl:*)",
+      "Bash(gh api:*)",
+      "Bash(gem search:*)",
+      "Bash(bundle config:*)",
+      "Bash(bundle update:*)",
+      "Bash(gem info:*)",
+      "Bash(bundler:*)",
+      "Bash(ruby --version:*)"
+    ]
+  }
+}
